@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Usmanzahidcode
-- 👀 I’m interested in C++ .NET and cuber security
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Software development
+- 👀 I’m interested in Frontend Backend Development
+- 🌱 I’m currently learning BAckend language PHP
+- 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me = developerusman@yahoo.com
 
 <!---
