@@ -16,9 +16,8 @@ Hey there. I'm **Usman**, a dedicated web developer specializing in backend deve
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Usman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-@YourTwitterHandle-blue?style=flat&logo=twitter)](https://twitter.com/YourTwitterHandle)
-[![Email](https://img.shields.io/badge/Email-youremail@example.com-blue?style=flat&logo=gmail)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Usman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/usmancode/)
+[![Email](https://img.shields.io/badge/Email-developerusman@yahoo.com-blue?style=flat&logo=gmail)](mailto:developerusman@yahoo.com)
 
 ---
 
