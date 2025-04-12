@@ -1,4 +1,6 @@
-Hey there. I'm **Usman**, a dedicated web developer specializing in backend development.
+Hey, I’m Usman — a backend developer who loves building clean, scalable systems with Laravel. I enjoy solving tough problems, refining backend architecture, and exploring new tools and technologies that make development smarter and faster.
+
+You’ll mostly find me working with PHP, Laravel, SQL, and Docker, but I’m always diving into new stacks and patterns that push my skills forward. I care deeply about code quality, maintainability, and performance.
 
 ### 👨‍💻 About Me
 
