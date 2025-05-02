@@ -1,20 +1,19 @@
-Hey, I’m Usman — a backend developer who loves building clean, scalable systems with Laravel. I enjoy solving tough problems, refining backend architecture, and exploring new tools and technologies that make development smarter and faster.
+_Hi, I’m_ 
+## Usman Zahid.
 
-You’ll mostly find me working with PHP, Laravel, SQL, and Docker, but I’m always diving into new stacks and patterns that push my skills forward. I care deeply about code quality, maintainability, and performance.
+I’m a backend developer focused on building clean, scalable systems with PHP. I’m passionate about crafting efficient, maintainable code and continuously improving backend architectures. I enjoy solving complex problems and staying current with emerging technologies to optimise development workflows.
 
-### 👨‍💻 About Me
+I primarily work with PHP, Laravel, SQL, and Docker, but I’m always exploring new tools and patterns to push my skills forward.
 
-- 🔭 Currently working as a **Backend Developer** with a focus on **Laravel**.
-- 🌱 Passionate about exploring and learning new web technologies.
-- 🎓 Strong background in programming and computer science.
+### What I Do
+- Build and maintain scalable backend systems.
+- Focus on code quality, performance, and maintainability.
+- Leverage modern tools and technologies to solve real-world challenges.
+- Build a package out of things that are reusable and necessary.
 
-### 🛠️ Skills & Technologies
-
-- **Languages**: PHP, JavaScript, SQL
-- **Frameworks**: Laravel, Lumen
-- **Databases**: MySQL, PostgreSQL
-- **Tools**: Git, Docker, Composer
-- **Other**: RESTful APIs, Microservices, Test-Driven Development (TDD)
+### Skills & Tech
+I specialise in PHP and a bit addicted to Laravel, leveraging these technologies to build scalable, maintainable backend systems. My experience extends to SQL, where I ensure efficient and reliable database management.
+I rely on tools like Git, Docker, and Composer to optimise development workflows. My approach emphasises TDD, REST APIS, and microservices to create clean, modular code that scales effectively.
 
 ### 🔗 Connect with Me
 
