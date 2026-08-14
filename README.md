@@ -1,25 +1,19 @@
-_Hi, I’m_ 
-## Usman Zahid.
+Hi, I’m Usman Zahid.
 
-I’m a backend developer focused on building clean, scalable systems with PHP. I’m passionate about crafting efficient, maintainable code and continuously improving backend architectures. I enjoy solving complex problems and staying current with emerging technologies to optimise development workflows.
-
-I primarily work with PHP, Laravel, SQL, and Docker, but I’m always exploring new tools and patterns to push my skills forward.
+I am a Software Engineer focused on backend development and cloud systems. I work primarily across ecosystems like PHP and .NET to build simple, secure, and reliable software that delivers practical value.
 
 ### What I Do
-- Build and maintain scalable backend systems.
-- Focus on code quality, performance, and maintainability.
-- Leverage modern tools and technologies to solve real-world challenges.
-- Build a package out of things that are reusable and necessary.
+- Build and maintain backend services, APIs, and database architecture.
+- Manage cloud deployment and infrastructure to ensure system stability.
+- Create reusable components and packages to solve recurring engineering problems.
+- Focus on end-to-end solutions rather than just writing code.
 
-### Skills & Tech
-I specialise in PHP and a bit addicted to Laravel, leveraging these technologies to build scalable, maintainable backend systems. My experience extends to SQL, where I ensure efficient and reliable database management.
-I rely on tools like Git, Docker, and Composer to optimise development workflows. My approach emphasises TDD, REST APIS, and microservices to create clean, modular code that scales effectively.
+### Technical Focus
+My primary work involves PHP, .NET, SQL databases, and containerization tools like Docker. I view technologies as tools to solve specific problems, focusing on adaptable architecture, data security, and long-term reliability over specific framework trends.
 
-### 🔗 Connect with Me
+### Connect
+Feel free to explore my repositories or reach out if you would like to collaborate.
 
+[![Website](https://img.shields.io/badge/Website-realusman.com-blue?style=flat&logo=googlechrome)](https://realusman.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Usman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/usmancode/)
 [![Email](https://img.shields.io/badge/Email-developerusman@yahoo.com-blue?style=flat&logo=gmail)](mailto:developerusman@yahoo.com)
-
----
-
-Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions.
